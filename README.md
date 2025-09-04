@@ -1,6 +1,6 @@
 ### 1 Billion row Challenge
 
-**To create a 1 Billion row **
+** To create a 1 Billion row **
 
 ```bash
 cd script
